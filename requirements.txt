@@ -1,0 +1,13 @@
+# App building
+pyinstaller==6.3.0
+
+# PDF Processing
+PyMuPDF==1.23.8
+Pillow==10.2.0
+
+# OCR
+pytesseract==0.3.10
+
+# AI/ML
+google-generativeai==0.3.2
+numpy==1.24.3
